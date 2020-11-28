@@ -1,0 +1,61 @@
+"group_name","N","alpha","xmin","p","tail"
+"Abu Sayyaf Group (ASG)",102,2.3188754242069,2.581,0.815,53.721
+"Al-Aqsa Martyrs Brigade",95,2.6801368536761,2.93,0.292,44.147
+"Allied Democratic Forces (ADF)",132,1.99977490252641,3.568,0.011,86.792
+"Al-Nusrah Front",139,2.48030777028627,13.271,0.039,53.131
+"Al-Qaida",32,1.68374489026183,8.329,0.011,22.185
+"Al-Qaida in Iraq",462,2.35321679052492,11.517,0.256,130.304
+"Al-Qaida in the Arabian Peninsula (AQAP)",366,2.13334664284596,3.419,0.041,139.858
+"Al-Qaida in the Islamic Maghreb (AQIM)",124,1.73047134239062,1.188,0.004,117.069
+"Al-Shabaab",993,2.61057399533305,8.2,0.796,167.93
+"Ansar Bayt al-Maqdis (Ansar Jerusalem)",31,3.21597053317659,3.196,0.661,17.579
+"Anti-Balaka Militia",39,1.69228880922635,2.19,0.049,30.868
+"Armed Islamic Group (GIA)",90,2.77762058432488,9.446,0.287,36.828
+"Baloch Liberation Army (BLA)",77,2.20547814595237,2.062,0.108,46.972
+"Baloch Liberation Front (BLF)",52,2.18598843909385,1.111,0.917,49.444
+"Baloch Republican Army (BRA)",48,3.69436469748011,3.705,0.21,21.177
+"Bangsamoro Islamic Freedom Movement (BIFM)",37,1.91953178480246,1.193,0.029,34.733
+"Barqa Province of the Islamic State",56,3.01915257470555,3.763,0.434,24.714
+"Basque Fatherland and Freedom (ETA)",43,3.2840279842212,1.39209401709402,0.941,32.3087606837607
+"Boko Haram",1422,2.55182034419138,19.38,0.13,245.621
+"Communist Party of India - Maoist (CPI-Maoist)",768,2.12802885892642,1.026,0.6,755.989
+"Democratic Front for the Liberation of Rwanda (FDLR)",52,2.00982271155906,3.675,0.009,32.137
+"Donetsk People's Republic",71,1.92704722788302,3.506,0.464,36.922
+"Free Aceh Movement (GAM)",37,2.71575723056498,2.136,0.508,22.268
+"Fulani extremists",337,2.57431933379708,11.023,0.208,76.347
+"Garo National Liberation Army",40,2.49126744973306,1.05911823647295,0.353,38.7585170340681
+"Hamas (Islamic Resistance Movement)",125,2.23114542585258,3.467,0.065,62.419
+"Haqqani Network",55,1.95562062505553,2.455,0.303,43.956
+"Hezbollah",40,1.92976472052258,1.134,0.62,38.033
+"Hizbul Mujahideen (HM)",68,1.98239164038733,1.087,0.188,65.55
+"Houthi extremists (Ansar Allah)",272,2.06499404079158,3.625,0.001,135.979
+"Indian Mujahideen",32,3.17399563741657,3.351,0.441,21.575
+"Islamic State of Iraq and the Levant (ISIL)",2280,2.49174939626832,15.58,0.697,357.205
+"Islamic State of Iraq (ISI)",111,2.83486559882237,23.988,0.215,34.859
+"Janjaweed",70,1.8397373233373,1.114,0.09,66.989
+"Jihadi-inspired extremists",36,1.9818762093885,1.177,0.429,33.96
+"Khorasan Chapter of the Islamic State",94,1.5772165017938,1.242,0.015,88.292
+"Kurdistan Workers' Party (PKK)",316,2.58572204392016,2.871,0.171,126.154
+"Lashkar-e-Islam (Pakistan)",49,3.22566790804265,4.934,0.457,20.517
+"Lashkar-e-Jhangvi",101,1.65979179301823,2.509,0.081,69.804
+"Lashkar-e-Taiba (LeT)",84,2.31456422432587,6.807,0.465,35.352
+"Liberation Tigers of Tamil Eelam (LTTE)",374,2.01409790824372,3.285,0.017,157.345
+"Lord's Resistance Army (LRA)",145,2.02680975728127,7.711,0.275,71.803
+"Moro Islamic Liberation Front (MILF)",110,2.42257260460358,4.766,0.249,44.19
+"National Democratic Front of Bodoland (NDFB)",69,2.98844152622521,5.591,0.157,27.694
+"National Liberation Army of Colombia (ELN)",69,2.46265150762404,2.174,0.743,39.125
+"National Liberation Front of Tripura (NLFT)",32,4.60839925652906,6.187,0.107,12.19
+"National Union for the Total Independence of Angola (UNITA)",76,2.03484748060439,6.089,0.47,41.574
+"New People's Army (NPA)",350,2.23736400795732,1.043,0.002,340.764
+"Palestinian Islamic Jihad (PIJ)",58,2.3215307121603,2.264,0.621,38.133
+"People's War Group (PWG)",31,2.73645740526017,4.564,0.544,19.478
+"Revolutionary Armed Forces of Colombia (FARC)",382,2.41066356268108,5.479,0.829,99.028
+"Salafist Group for Preaching and Fighting (GSPC)",99,2.19311486697614,2.314,0.339,61.605
+"Sinai Province of the Islamic State",142,2.08609962000192,2.081,0.248,82.171
+"Taliban",4091,2.90705600409686,11.003,0.722,435.896
+"Tawhid and Jihad",37,1.43403839792634,1.873,0.024,34.494
+"Tehrik-i-Taliban Pakistan (TTP)",664,1.90517633099337,3.559,0.001,292.291
+"Tripoli Province of the Islamic State",101,1.86405907414575,1.104,0.003,96.763
+"United Baloch Army (UBA)",31,2.01105105514203,2.148,0.301,22.803
+"United Liberation Front of Assam (ULFA)",108,2.71199442437259,5.518,0.912,44.105
+"United Self Defense Units of Colombia (AUC)",52,2.53951743082894,5.26,0.11,25.937
